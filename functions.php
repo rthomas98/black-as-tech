@@ -60,5 +60,4 @@ add_action( 'wp_enqueue_scripts', 'buddyboss_theme_child_scripts_styles', 9999 )
 // Add your own custom functions here
 
 
-
 ?>
